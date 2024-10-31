@@ -8,6 +8,7 @@ body {
   font-weight: 400, 700;
 }
 
+
 h1 {
   text-align: center;
   font-size: 1.5rem;
@@ -22,6 +23,7 @@ h1 {
   width: 330px;
   height: 470px;
   margin: 0 auto;
+  padding: 5px;
   text-decoration: none;
   text-align: center;
   background-color: #fff;
@@ -58,7 +60,12 @@ h1 {
 
 
 .text-wrapper {
-  margin: 3em;
+  margin: 2.4em 2.4em 0;
+}
+span {
+  display: block;
+  font-weight: bold;
+  font-size: 1.2em;
 }
 p {
   font-size: 15px;

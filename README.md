@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-During this challenge, I learned the usefulness of transparency in color. At first, I was faced with the challenge of including the inner circles behind the QR code. When I first did, the circle overshadow the parent element. I tried z-index, still can't get what I wanted until it came to my mind to transparent the background-color of the elements. This helped to hide the overshadow. 
+During this challenge, I learned the usefulness of transparency in color. At first, I faced the challenge of including inner circles behind the QR code. Initially, the circles overshadowed the parent element. I tried adjusting the z-index, but it didn't achieve the desired effect. Then, I decided to set the background-color of the circles elements to 'transparent'. This helped to hide the overshadow. 
 
 Here is the markdown:
 
