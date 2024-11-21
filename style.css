@@ -41,6 +41,7 @@ h1 {
   height: 250px;
   margin: 1.5em;
   border-radius: inherit;
+  overflow: hidden;
 }
 .inner-circle {
   position: absolute;
